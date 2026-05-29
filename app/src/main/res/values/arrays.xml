@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="appliance_type">
+        <item>Fan</item>
+        <item>Socket</item>
+        <item>Light</item>
+        <item>Door</item>
+        <item>Window</item>
+        <item>Other</item>
+    </string-array>
+</resources>

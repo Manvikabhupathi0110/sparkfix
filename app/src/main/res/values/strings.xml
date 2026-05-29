@@ -1,3 +1,41 @@
 <resources>
     <string name="app_name">SparkFix</string>
+    <string name="book_a_service">Book a Service</string>
+    <string name="service_type_hint">Service Type (e.g. Wiring)</string>
+    <string name="address_hint">Address</string>
+    <string name="submit">Submit</string>
+    <string name="about_title">About SparkFix</string>
+    <string name="about_description">SparkFix helps students and staff at the college place and track their electrical repair requests easily.</string>
+    <string name="about_version">Version: 1.0.0</string>
+    <string name="about_developers">Developers: Your Name(s)</string>
+    <string name="about_contact">Contact: help@example.com</string>
+    <string name="new_complaint_title">New Complaint / Repair</string>
+    <string name="appliance_type">Appliance Type</string>
+    <string name="hint_other_appliance">Other appliance type</string>
+    <string name="hint_issue_desc">Describe the issue</string>
+    <string name="hostel_details">Hostel details:</string>
+    <string name="hint_room_number">Room number</string>
+    <string name="upload_photo">Upload Photo</string>
+    <string name="reset">Reset</string>
+    <string name="help_faq_title">Help &amp; FAQ</string>
+    <string name="help_how_to_book">How to book a repair?
+Tap the Book button below, fill out the details, and submit.</string>
+    <string name="help_how_to_status">How to check status?
+Go to the History tab for a list of all your complaints and their statuses.</string>
+    <string name="help_contact">How to contact support?
+Contact: help@example.com</string>
+    <string name="profile_name">Name: Aman Sharma</string>
+    <string name="profile_id">ID: STU2034</string>
+    <string name="profile_hostel">Hostel: J Block</string>
+    <string name="profile_room">Room: 104</string>
+    <string name="profile_email">Email: aman@student.college.edu</string>
+    <string name="profile_phone">Phone: 9876543210</string>
+    <string name="profile_history_title">History</string>
+    <string name="profile_history">1. Fan not working - Completed&#10;2. Light fused - Pending</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_history">History</string>
+    <string name="nav_book">Book</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_more">More</string>
+    <string name="no_service_history">No service history yet!</string>
 </resources>
