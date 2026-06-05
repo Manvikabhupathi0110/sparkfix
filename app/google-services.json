@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "289956787848",
+    "project_id": "sparkfix-4a3b0",
+    "storage_bucket": "sparkfix-4a3b0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289956787848:android:e417ea8fa437c4a529913d",
+        "android_client_info": {
+          "package_name": "com.example.sparkfix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDQdO-yThiz-e31gPkpED6-dRPK24bkeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
