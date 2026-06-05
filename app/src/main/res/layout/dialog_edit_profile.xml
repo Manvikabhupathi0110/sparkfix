@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <EditText
+        android:id="@+id/etEditName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Name"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/etEditPhone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Phone"
+        android:inputType="phone" />
+
+    <!-- Student Container -->
+    <LinearLayout
+        android:id="@+id/layoutEditStudent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/etEditId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Student ID"
+            android:inputType="text" />
+
+        <EditText
+            android:id="@+id/etEditHostel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Hostel"
+            android:inputType="text" />
+
+        <EditText
+            android:id="@+id/etEditRoom"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Room No"
+            android:inputType="text" />
+    </LinearLayout>
+
+    <!-- Electrician Container -->
+    <LinearLayout
+        android:id="@+id/layoutEditElectrician"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <EditText
+            android:id="@+id/etEditElectricianId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Electrician ID"
+            android:inputType="text" />
+    </LinearLayout>
+
+</LinearLayout>
